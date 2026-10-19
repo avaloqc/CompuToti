@@ -1,0 +1,101 @@
+"IdVenda","NumeroPedido","DataVenda","Estado","CodigoProduto","Produto","Preco","CodigoFabricante","Fabricante","QuantidadeVendida","ValorVenda"
+1,1001,"2025-01-10",SP,5,Monitor,240.0,1,Sony,2,480.0
+2,1001,"2025-01-10",SP,7,CD drive,90.0,2,Creative Labs,1,90.0
+3,1002,"2025-01-15",RJ,2,Memory,120.0,6,Winchester,3,360.0
+4,1003,"2025-01-20",MG,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+5,1003,"2025-01-20",MG,9,Toner cartridge,66.0,3,Hewlett-Packard,2,132.0
+6,1004,"2025-01-25",SP,1,Hard drive,240.0,5,Fujitsu,2,480.0
+7,1004,"2025-01-25",SP,6,DVD drive,180.0,2,Creative Labs,1,180.0
+8,1005,"2025-01-28",PR,4,Floppy disk,5.0,6,Winchester,4,20.0
+9,1006,"2025-02-03",RJ,2,Memory,120.0,6,Winchester,2,240.0
+10,1006,"2025-02-03",RJ,10,DVD burner,180.0,2,Creative Labs,1,180.0
+11,1007,"2025-02-08",SP,7,CD drive,90.0,2,Creative Labs,3,270.0
+12,1008,"2025-02-12",BA,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+13,1008,"2025-02-12",BA,9,Toner cartridge,66.0,3,Hewlett-Packard,2,132.0
+14,1009,"2025-02-18",MG,5,Monitor,240.0,1,Sony,4,960.0
+15,1010,"2025-02-25",RS,3,ZIP drive,150.0,4,Iomega,2,300.0
+16,1011,"2025-03-02",SP,4,Floppy disk,5.0,6,Winchester,5,25.0
+17,1011,"2025-03-02",SP,2,Memory,120.0,6,Winchester,2,240.0
+18,1012,"2025-03-06",RJ,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+19,1013,"2025-03-10",MG,6,DVD drive,180.0,2,Creative Labs,3,540.0
+20,1013,"2025-03-10",MG,7,CD drive,90.0,2,Creative Labs,2,180.0
+21,1014,"2025-03-16",PR,9,Toner cartridge,66.0,3,Hewlett-Packard,4,264.0
+22,1015,"2025-03-22",SC,5,Monitor,240.0,1,Sony,2,480.0
+23,1015,"2025-03-22",SC,11,Loudspeakers,70.0,2,Creative Labs,1,70.0
+24,1016,"2025-03-28",SP,1,Hard drive,240.0,5,Fujitsu,3,720.0
+25,1017,"2025-04-03",BA,3,ZIP drive,150.0,4,Iomega,2,300.0
+26,1017,"2025-04-03",BA,9,Toner cartridge,66.0,3,Hewlett-Packard,4,264.0
+27,1018,"2025-04-08",SP,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+28,1019,"2025-04-12",RJ,2,Memory,120.0,6,Winchester,3,360.0
+29,1019,"2025-04-12",RJ,6,DVD drive,180.0,2,Creative Labs,2,360.0
+30,1020,"2025-04-18",MG,4,Floppy disk,5.0,6,Winchester,5,25.0
+31,1021,"2025-04-23",PR,10,DVD burner,180.0,2,Creative Labs,2,360.0
+32,1021,"2025-04-23",PR,7,CD drive,90.0,2,Creative Labs,3,270.0
+33,1022,"2025-05-02",SP,5,Monitor,240.0,1,Sony,2,480.0
+34,1022,"2025-05-02",SP,9,Toner cartridge,66.0,3,Hewlett-Packard,3,198.0
+35,1023,"2025-05-07",RS,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+36,1024,"2025-05-11",RJ,2,Memory,120.0,6,Winchester,4,480.0
+37,1024,"2025-05-11",RJ,11,Loudspeakers,70.0,2,Creative Labs,2,140.0
+38,1025,"2025-05-16",BA,1,Hard drive,240.0,5,Fujitsu,3,720.0
+39,1026,"2025-05-22",SP,7,CD drive,90.0,2,Creative Labs,5,450.0
+40,1026,"2025-05-22",SP,6,DVD drive,180.0,2,Creative Labs,2,360.0
+41,1027,"2025-05-28",MG,3,ZIP drive,150.0,4,Iomega,3,450.0
+42,1028,"2025-06-03",PR,4,Floppy disk,5.0,6,Winchester,4,20.0
+43,1028,"2025-06-03",PR,10,DVD burner,180.0,2,Creative Labs,1,180.0
+44,1029,"2025-06-08",SP,8,Printer,270.0,3,Hewlett-Packard,2,540.0
+45,1030,"2025-06-12",SC,5,Monitor,240.0,1,Sony,3,720.0
+46,1030,"2025-06-12",SC,9,Toner cartridge,66.0,3,Hewlett-Packard,4,264.0
+47,1031,"2025-06-17",RJ,1,Hard drive,240.0,5,Fujitsu,2,480.0
+48,1032,"2025-06-23",MG,2,Memory,120.0,6,Winchester,5,600.0
+49,1032,"2025-06-23",MG,7,CD drive,90.0,2,Creative Labs,2,180.0
+50,1033,"2025-07-02",SP,6,DVD drive,180.0,2,Creative Labs,3,540.0
+51,1033,"2025-07-02",SP,11,Loudspeakers,70.0,2,Creative Labs,2,140.0
+52,1034,"2025-07-07",BA,4,Floppy disk,5.0,6,Winchester,4,20.0
+53,1035,"2025-07-11",RJ,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+54,1035,"2025-07-11",RJ,9,Toner cartridge,66.0,3,Hewlett-Packard,3,198.0
+55,1036,"2025-07-16",PR,5,Monitor,240.0,1,Sony,2,480.0
+56,1037,"2025-07-21",SP,2,Memory,120.0,6,Winchester,5,600.0
+57,1037,"2025-07-21",SP,10,DVD burner,180.0,2,Creative Labs,2,360.0
+58,1038,"2025-07-27",RS,1,Hard drive,240.0,5,Fujitsu,3,720.0
+59,1039,"2025-08-03",MG,7,CD drive,90.0,2,Creative Labs,4,360.0
+60,1039,"2025-08-03",MG,6,DVD drive,180.0,2,Creative Labs,2,360.0
+61,1040,"2025-08-08",SP,3,ZIP drive,150.0,4,Iomega,3,450.0
+62,1041,"2025-08-12",SC,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+63,1041,"2025-08-12",SC,9,Toner cartridge,66.0,3,Hewlett-Packard,4,264.0
+64,1042,"2025-08-17",RJ,5,Monitor,240.0,1,Sony,2,480.0
+65,1043,"2025-08-22",BA,4,Floppy disk,5.0,6,Winchester,5,25.0
+66,1043,"2025-08-22",BA,11,Loudspeakers,70.0,2,Creative Labs,3,210.0
+67,1044,"2025-08-28",SP,1,Hard drive,240.0,5,Fujitsu,2,480.0
+68,1045,"2025-09-02",PR,2,Memory,120.0,6,Winchester,3,360.0
+69,1045,"2025-09-02",PR,7,CD drive,90.0,2,Creative Labs,2,180.0
+70,1046,"2025-09-07",SP,6,DVD drive,180.0,2,Creative Labs,4,720.0
+71,1047,"2025-09-11",MG,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+72,1047,"2025-09-11",MG,9,Toner cartridge,66.0,3,Hewlett-Packard,3,198.0
+73,1048,"2025-09-17",RJ,4,Floppy disk,5.0,6,Winchester,5,25.0
+74,1049,"2025-09-22",RS,5,Monitor,240.0,1,Sony,2,480.0
+75,1049,"2025-09-22",RS,10,DVD burner,180.0,2,Creative Labs,3,540.0
+76,1050,"2025-10-03",SP,1,Hard drive,240.0,5,Fujitsu,4,960.0
+77,1050,"2025-10-03",SP,11,Loudspeakers,70.0,2,Creative Labs,2,140.0
+78,1051,"2025-10-08",BA,7,CD drive,90.0,2,Creative Labs,3,270.0
+79,1052,"2025-10-13",RJ,2,Memory,120.0,6,Winchester,2,240.0
+80,1052,"2025-10-13",RJ,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+81,1053,"2025-10-18",MG,4,Floppy disk,5.0,6,Winchester,5,25.0
+82,1054,"2025-10-23",PR,9,Toner cartridge,66.0,3,Hewlett-Packard,3,198.0
+83,1054,"2025-10-23",PR,6,DVD drive,180.0,2,Creative Labs,2,360.0
+84,1055,"2025-11-02",SP,5,Monitor,240.0,1,Sony,4,960.0
+85,1055,"2025-11-02",SP,7,CD drive,90.0,2,Creative Labs,3,270.0
+86,1056,"2025-11-07",SC,3,ZIP drive,150.0,4,Iomega,2,300.0
+87,1057,"2025-11-12",RJ,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+88,1057,"2025-11-12",RJ,9,Toner cartridge,66.0,3,Hewlett-Packard,4,264.0
+89,1058,"2025-11-18",BA,2,Memory,120.0,6,Winchester,5,600.0
+90,1059,"2025-11-23",SP,10,DVD burner,180.0,2,Creative Labs,3,540.0
+91,1059,"2025-11-23",SP,11,Loudspeakers,70.0,2,Creative Labs,2,140.0
+92,1060,"2025-12-02",MG,1,Hard drive,240.0,5,Fujitsu,4,960.0
+93,1060,"2025-12-02",MG,6,DVD drive,180.0,2,Creative Labs,2,360.0
+94,1061,"2025-12-07",SP,4,Floppy disk,5.0,6,Winchester,5,25.0
+95,1062,"2025-12-12",RJ,5,Monitor,240.0,1,Sony,3,720.0
+96,1062,"2025-12-12",RJ,7,CD drive,90.0,2,Creative Labs,2,180.0
+97,1063,"2025-12-17",PR,8,Printer,270.0,3,Hewlett-Packard,1,270.0
+98,1063,"2025-12-17",PR,9,Toner cartridge,66.0,3,Hewlett-Packard,4,264.0
+99,1064,"2025-12-22",BA,2,Memory,120.0,6,Winchester,3,360.0
+100,1064,"2025-12-22",BA,11,Loudspeakers,70.0,2,Creative Labs,2,140.0
