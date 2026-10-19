@@ -15,7 +15,5 @@ h. Hospital
 # 3. Importe o arquivo no colab e trate os dados utilizando Python.
 # 4. Comente os passos do seu código.
 # 5. Crie um relatório visual para apresentar os resultados utilizando o Power BI.
-# 6. Compile em uma apresentação, imagine que os resultados serão apresentados para um
-público não técnico, por isso tente enfatizar os resultados do seu trabalho.
-# 7. Prepare-se para a apresentação final. Cada aluno deverá falar sobre 3 recomendações
-(insights) que puderam ser obtidas com suas análises.
+# 6. Compile em uma apresentação, imagine que os resultados serão apresentados para um público não técnico, por isso tente enfatizar os resultados do seu trabalho.
+# 7. Prepare-se para a apresentação final. Cada aluno deverá falar sobre 3 recomendações (insights) que puderam ser obtidas com suas análises.
